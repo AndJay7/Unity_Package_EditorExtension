@@ -1,0 +1,12 @@
+{
+  "name": "com.andsoftware.editorextension",
+  "version": "1.0.0",
+  "displayName": "& Editor Extension",
+  "description": "Set of editor function and classes, for easier editor scripts creation",
+  "unity": "2021.3",
+  "author": {
+    "name": "Andrzej Jezierski",
+    "email": "jezierski.and@gmail.com",
+    "url": ""
+  }
+}
